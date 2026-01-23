@@ -20,7 +20,7 @@
     "react-transition-group": "^2.2.1",
     "serve": "^10.0.2",
     "stylus": "0.54.5",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.5.10"
   },
   "scripts": {
     "start": "react-scripts start",
